@@ -1,0 +1,51 @@
+body {
+    background: blue;
+    min-height: 100vh;
+}
+
+
+.form-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.271);
+    width: 400px;
+    margin: 10px auto;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+
+form {
+    width: 100%px;
+    margin: 20px 0px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    margin-top: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: calc(100% - 20px);
+  }
+  
+  input[type="submit"] {
+    background-color: #9277e9;
+    color: white;
+    width: 100%;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.2s ease;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #0863c3;
+  }

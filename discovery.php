@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="cssisi.css">
+    <title>Discovery Learning</title>
+</head>
+<body>
+    <header>
+		<input type="image" src="iso fix.png"/>
+        <h1><b>Apa itu Discovery Learning?</b></h1>
+        <nav>
+            <ul>
+                <li><a href="#Pengertian">Pengertian</a></li>
+                <li><a href="#Karakteristik">Karakteristik</a></li>
+                <li><a href="#Langkah-langkah">Langkah-langkah</a></li>
+                <li><a href="#Kelebihan">Kelebihan</a></li>
+                <li><a href="#Kekurangan">Kekurangan</a></li>
+				<li><a href="coba.php">Home</a></li>
+            </ul>
+        </nav>
+    </header>
+	
+	<!--Pengertian-->
+    <section id="Pengertian" >
+        <h2>A. Pengertian</h2>
+        <p>Menurut Jerome Bruner, discovery learning adalah metode belajar yang mendorong peserta didik untuk mengajukan pertanyaan dan menarik kesimpulan dari prinsip-prinsip umum praktis contohnya pengalaman.</p>
+		<p>Menurut Willam, discovery learning adalah sebuah pendekatan, yang mana guru melibatkan kemampuan berpikir kritis peserta didik untuk menganalisis dan memecahkan persoalan secara sistematik sehingga peserta didik dapat menemukan suatu prinsip dan teori.</p>
+		<p>Berdasarkan pendapat para ahli dapat disimpulkan jika discovery learning adalah pendekatan pembelajaran dengan tujuan peserta didik untuk mencari, menganalisis serta memecahkan masalah hingga menemukan pengetahuan sendiri dengan tujuan pembelajaran yang telah ditentukan.</p>
+    </section>
+	
+	<!--Karakteristik-->
+    <section id="Karakteristik">
+        <h2>B. Karakteristik</h2>
+        <p>-	Peran guru adalah sebagai pembimbing.</p>
+		<p>-	Peserta didik belajar secara aktif sebagai seorang ilmuwan.</p>
+		<p>-	Bahan ajar disajikan dalam bentuk informasi dan peserta didik melakukan kegiatan menghimpun, membandingkan, mengkategorikan, menganalisis, serta membuat kesimpulan.</p>
+    </section>
+	
+	<!--Langkah-langkah-->
+    <section id="Langkah-langkah">
+        <h2>C. Langkah-langkah</h2>
+        <p>-	Stimulation (pemberian rangsangan)</p>
+		<p>-	Problem statement (identifikasi masalah)</p>
+		<p>-	Data collection (pengumpulan data)</p>
+		<p>-	Data processing (pengolahan data)</p>
+		<p>-	Verification (pembuktian)</p>
+		<p>-	Generalization (menarik kesimpulan)</p>
+    </section>
+	
+	<!--Kelebihan-->
+    <section id="Kelebihan">
+        <h2>D. Kelebihan</h2>
+        <p>-	Menggunakan kegiatan & pengalaman langsung (praktik bukan sekadar teori)</p>
+		<p>-	Discovery lebih realistis & mempunyai makna karena para peserta didik dapat bekerja langsung dengan contoh yang nyata</p> 
+		<p>-	Discovery learning akan mudah dimengerti oleh peserta didik dalam memahami kondisi tertentu yang berhubungan dengan aktivitas pembelajaran</p> 
+		<p>-	Discovery banyak memberikan kesempatan pada peserta didik untuk terlibat langsung dalam kegiatan belajar. Kegiatan tersebut akan banyak membangkitkan motivasi belajar</p>
+    </section>
+	
+	<!--Kekurangan-->
+    <section id="Kekurangan">
+        <h2>E. Kekurangan</h2>
+        <p>-	Membutuhkan waktu yang lebih lama dibandingkan dengan metode lainnya</p>
+		<p>-	Tidak semua peserta didik dapat menyelesaikan dan menemukan pengetahuan sendiri, karena kemampuan berfikir rasional mereka masih terbatas dan usia muda masih membutuhkan kematangan dalam berpikir rasional mengenai konsep atau teori</p> 
+		<p>-	Kesukaran dalam memahami suatu persoalan yang berkenaan dengan pengajaran metode discovery learning</p>
+		<P>-	Belajar discovery learning menuntut kemandirian, kepercayaan kepada diri sendiri, dan kebiasaan bertindak sebagai subjek. Peserta didik yang tidak mandiri akan tidak dapat mengikuti pembelajaran</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023. <b>Iso.web</b> All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
